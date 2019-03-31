@@ -1,0 +1,9 @@
+127.0.0.1 - - [04/Sep/2018:15:20:14 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:15:20:16 +0530] "GET /Spring_Project/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:15:20:18 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:15:20:49 +0530] "GET /Spring_Project/ls?nm=pankaj&bday=2018-09-04&em=pankaj%40gmail.com&mob=8825266805&addr=asd&qualification=B.Tech&br=jkn HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:15:22:01 +0530] "GET /Spring_Project/ls?nm=dvs&bday=19994-09-22&em=dvs%40gmail.com&mob=999888&addr=btm&qualification=B.Tech&br=ec HTTP/1.1" 200 79
+127.0.0.1 - - [04/Sep/2018:15:30:49 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:15:30:50 +0530] "GET /Spring_Project/Login.html HTTP/1.1" 200 382
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:15:30:50 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:15:31:41 +0530] "GET /fs?nm=pankaj&ps=.lm HTTP/1.1" 404 1076

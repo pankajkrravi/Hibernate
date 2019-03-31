@@ -1,0 +1,52 @@
+package org.hibernate.onetoonebi.dto;
+
+import java.io.Serializable;
+
+public class AadharDTO implements Serializable
+{
+
+	private int aadharId;
+	private String address;
+	private String state;
+	
+	
+	public AadharDTO()
+	{
+		super();
+	}
+
+
+	public int getAadharId() 
+	{
+		return aadharId;
+	}
+
+
+	public void setAadharId(int aadharId) {
+		this.aadharId = aadharId;
+	}
+
+
+	public String getAddress() {
+		return address;
+	}
+
+
+	public void setAddress(String address) {
+		this.address = address;
+	}
+
+
+	public String getState() {
+		return state;
+	}
+
+
+	public void setState(String state) {
+		this.state = state;
+	}
+	
+	
+	
+	
+}

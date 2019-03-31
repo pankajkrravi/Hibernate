@@ -1,0 +1,20 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.jspider.iApp.Customer"><rhs name\="com.jspider.iApp.Customer"/></lhs><lhs name\="org.hibernate.cfg.Configuration"><rhs name\="org.hibernate.cfg.Configuration"/></lhs><lhs name\="com.pankaj.LapApp.dto.LaptopDTO"><rhs name\="com.pankaj.LapApp.dto.LaptopDTO"/></lhs><lhs name\="com.pankaj.LapApp.dao.laptopADAO"><rhs name\="com.pankaj.LapApp.dao.laptopADAO"/></lhs><lhs name\="com.pankaj.LapApp.dao.LaptopADAO"><rhs name\="com.pankaj.LapApp.dao.LaptopADAO"/></lhs><lhs name\="com.pankaj.Demoapp.dto.MovieDTO"><rhs name\="com.pankaj.Demoapp.dto.MovieDTO"/></lhs><lhs name\="com.pankaj.Demoapp.dao.MovieDAO"><rhs name\="com.pankaj.Demoapp.dao.MovieDAO"/></lhs><lhs name\="com.mobileApp.dao.MobileDAo"><rhs name\="com.mobileApp.dao.MobileDAo"/></lhs><lhs name\="com.pankaj.accApp.dto.AccountDTO"><rhs name\="com.pankaj.accApp.dto.AccountDTO"/></lhs><lhs name\="com.pankaj.employeeApp.dto.employeeDTO"><rhs name\="com.pankaj.employeeApp.dto.employeeDTO"/></lhs><lhs name\="com.pankaj.employeeApp.dao.EmployeeDAO"><rhs name\="com.pankaj.employeeApp.dao.EmployeeDAO"/></lhs><lhs name\="com.demoApp.OldStudent"><rhs name\="com.demoApp.OldStudent"/></lhs><lhs name\="com.Guldu.insertApp.Recuirement"><rhs name\="com.Guldu.insertApp.Recuirement"/></lhs><lhs name\="com.guldu.select.Student"><rhs name\="com.guldu.select.Student"/></lhs><lhs name\="com.hql.matrimony.dto.Student"><rhs name\="com.hql.matrimony.dto.Student"/></lhs><lhs name\="com.hql.matrimony.dao.StudentDAO"><rhs name\="com.hql.matrimony.dao.StudentDAO"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.Date"/></lhs><lhs name\="java.util.Date"><rhs name\="java.util.Date"/></lhs><lhs name\="beans.STUDENTBEAN"><rhs name\="beans.STUDENTBEAN"/></lhs><lhs name\="org.jspiders.hibernate.onetooneuni.dto.PersonDTO"><rhs name\="org.jspiders.hibernate.onetooneuni.dto.PersonDTO"/></lhs><lhs name\="org.jspiders.hibernate.onetooneuni.dao.AadharDAO"><rhs name\="org.jspiders.hibernate.onetooneuni.dao.AadharDAO"/></lhs><lhs name\="demo.Recursion"><rhs name\="demo.Recursion"/></lhs><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.NumberFormatException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.NumberFormatException"/></lhs></history>
+content_assist_number_of_computers=24
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|8.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
+proposalOrderMigrated=true
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

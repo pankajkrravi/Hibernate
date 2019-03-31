@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Mix_proj/src/NewFile.xml&apos; to &apos;product.hbm.xml&apos;" description="Rename resource &apos;NewFile.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/NewFile.xml" name="product.hbm.xml" stamp="1535465006551" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Mix_proj/src/hibernate.xml&apos; to &apos;hibernate.cfg.xml&apos;" description="Rename resource &apos;hibernate.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/hibernate.xml" name="hibernate.cfg.xml" stamp="1535465894510" updateReferences="true"/>
+</session>

@@ -1,0 +1,59 @@
+package org.hibernate.onetoonebi.dto;
+
+public class PersonDTO 
+{
+	
+	
+	private int personId;
+	private String personName;
+	private double personAge;
+	
+	
+	
+	public PersonDTO() 
+	{
+		super();
+	}
+
+
+
+	public int getPersonId() {
+		return personId;
+	}
+
+
+
+	public void setPersonId(int personId) {
+		this.personId = personId;
+	}
+
+
+
+	public String getPersonName() {
+		return personName;
+	}
+
+
+
+	public void setPersonName(String personName) {
+		this.personName = personName;
+	}
+
+
+
+	public double getPersonAge() {
+		return personAge;
+	}
+
+
+
+	public void setPersonAge(double personAge) {
+		this.personAge = personAge;
+	}
+	
+	
+	
+	
+	
+	
+}

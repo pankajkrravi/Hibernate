@@ -1,0 +1,5 @@
+package org.jspiders.hibernate.onetooneuni.dto;
+
+public class AadharDTO {
+
+}

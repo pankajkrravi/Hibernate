@@ -1,0 +1,37 @@
+package org.jspiders.hibernate.onetooneuni.dto;
+
+public class AadharDTO {
+     private long aadharid;
+     private String address;
+     private String tagline;
+     private PersonDTO dto;
+     AadharDTO()
+     {
+    	 System.out.println("default conatructor!!!");
+     }
+	public long getAadharid() {
+		return aadharid;
+	}
+	public void setAadharid(long aadharid) {
+		this.aadharid = aadharid;
+	}
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
+	public String getTagline() {
+		return tagline;
+	}
+	public void setTagline(String tagline) {
+		this.tagline = tagline;
+	}
+	public PersonDTO getDto() {
+		return dto;
+	}
+	public void setDto(PersonDTO dto) {
+		this.dto = dto;
+	}
+     
+}

@@ -1,0 +1,45 @@
+package org.jspiders.hibernate.onetooneuni.dao;
+
+import org.hibernate.HibernateException;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+import org.jspiders.hibernate.onetooneuni.dto.AadharDTO;
+import org.jspiders.hibernate.onetooneuni.dto.PersonDTO;
+
+import hibernate.util.HibernatrUtil;
+
+public class AadharDAO {
+		//private SessionFactory factory=HibernatrUtil.getSessionFactory();
+		Configuration configuration=new Configuration();
+		configuration.configure();
+		
+		Session session;
+		long pk;
+		public long saveAadhar(AadharDTO aadharDTO,PersonDTO dto)
+		{
+			
+		try {
+			session=factory.openSession();
+			Transaction transaction=session.beginTransaction();
+			 pk=(long)session.save(aadharDTO);
+			session.save(dto);
+			transaction.commit();
+				
+		} catch (HibernateException e) 
+		{
+			e.printStackTrace();
+		}
+		finally {
+			if (session!=null) 
+			{
+				session.close();
+			}
+			
+		}
+		return pk;
+		
+		}
+		
+}

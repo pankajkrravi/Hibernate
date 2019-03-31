@@ -1,0 +1,8 @@
+package org.jspiders.hibernate.onetooneuni.dto;
+
+public class AadharDTO {
+     private long aadharid;
+     private String address;
+     private String tagline;
+     
+}

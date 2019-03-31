@@ -1,0 +1,5 @@
+package org.jspiders.hibernate.onetooneuni.apptester;
+
+public class AppTester {
+
+}

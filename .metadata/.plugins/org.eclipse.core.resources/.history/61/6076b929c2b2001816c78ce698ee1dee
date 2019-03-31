@@ -1,0 +1,26 @@
+package demo;
+
+public class Recursion
+{
+
+	
+	public void m1()
+	{
+		System.out.println("iam m1();");
+		m2();
+	}
+	
+
+	
+	public void m2()
+	{
+		System.out.println("iam m12();");
+		m1();
+	}
+	
+	public static void main(String[] args) {
+		Recursion recursion= new Recursion();
+		recursion.m1();
+	}
+	
+}
